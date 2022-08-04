@@ -85,6 +85,8 @@ aside{
     background-color: var(--color-bluebell);
     text-align: center;
     cursor: pointer;
+    transition: background-color 175ms;
+
 }.card-btn button:hover{ background-color: var(--color-soap); }
 .card-btn button:focus{ background-color: var(--color-gray); }
 
